@@ -18,7 +18,7 @@ Para pleno funcionamento do script você precisa:
 4. Usar a aplicação MouseInfo para pegar a coordenada do seu mouse na página do Recupera
 5. Colar a coordenada do mouse na linha 104 do script Python
 
-# Passo a passo do zero (caso precise):
+# Passo a passo do zero (caso esteja rodando no Windows e precise):
 1. Realize o download do Python em https://www.python.org/downloads/ e o instale no computador.
 2. Com o Python instalado, instale as dependências necessárias com o seguinte comando no CMD:
 ~~~cmd
