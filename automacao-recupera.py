@@ -156,7 +156,7 @@ def startAutomacao():
                         pa.press('tab', presses=2)
                         pa.write(codigo_unidade)
                         pa.press('tab', presses=2)
-                        pa.write('cobrart')
+                        pa.write('sua_assessoria')
                         
                         # Atualiza a data_pgto_inicial para a próxima iteração
                         data_pgto_inicial = dia_pgto_final_relatorio + timedelta(days=1)     
